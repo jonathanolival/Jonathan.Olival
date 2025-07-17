@@ -1,1 +1,13 @@
 theme: jekyll-theme-cayman
+sass:
+  style: compressed
+
+include:
+  - assets/css
+
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      css: assets/css/custom.css
