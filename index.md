@@ -3,6 +3,16 @@ layout: default
 title: Inicio
 ---
 
-# Hola, soy Jonathan Olival
+# Jonathan Olival
 
 Bienvenido a mi sitio personal.
+
+Soy investigador en genética con interés en biología molecular, genómica y ciencia abierta.
+
+---
+
+## Secciones
+
+- [CV](cv.md)
+- [Publicaciones](publicaciones.md)
+- [Contacto](contacto.md)
