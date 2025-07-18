@@ -1,14 +1,2 @@
 title: Jonathan Olival
 theme: jekyll-theme-cayman
-
-# Activar inclusión del CSS manual
-include:
-  - assets
-
-defaults:
-  - scope:
-      path: ""
-      type: "pages"
-    values:
-      layout: default
-      css: /assets/css/style.css
