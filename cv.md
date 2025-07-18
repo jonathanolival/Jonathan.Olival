@@ -7,8 +7,8 @@ title: CV
 
 ## Education
 
-- Phd in Human Genetics – Universidat de Barcelona (2022)
-- MSc in Molecular Biotechnology - Universidat de Barcelona (2017)
+- Phd in Human Genetics – Universitat de Barcelona (2022)
+- MSc in Molecular Biotechnology - Universitat de Barcelona (2017)
 - Bachelors degree in Bioanalysis - Universidad Central de Venezuela (2012)
 
 ## Work Experience
