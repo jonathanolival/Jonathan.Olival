@@ -15,5 +15,4 @@ title: Publicaciones
 
 ## 2023
 - Natera-de Benito, D., **Olival, J.**, Garcia-Cabau, C., Jou, C., Roldan, M., Codina, A., Expósito-Escudero, J., Batlle, C., Carrera-García, L., Ortez, C., Salvatella, X., Palau, F., Nascimento, A., & Hoenicka, J. (2023). Common pathophysiology for ANXA11 disorders caused by aspartate 40 variants. Annals of clinical and translational neurology, 10(3), 408–425. https://doi.org/10.1002/acn3.51731
-  
-<link rel="stylesheet" href="/assets/css/style.css">
+ 
