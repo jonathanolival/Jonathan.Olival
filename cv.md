@@ -18,5 +18,3 @@ title: CV
 - Geneticist - Hospital Sant Joan de Déu (Apr 2023 - Apr 2024)
 - NGS specialist - Centro Nacional de Análisis Genómicos (CNAG) (Oct 2022 - Apr 2023)
 - PhD Student - Institute de Recerca Sant Joan de Déu (2019-2022)
-<link rel="stylesheet" href="/assets/css/style.css">
-
