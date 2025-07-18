@@ -2,9 +2,6 @@
 layout: default
 title: Publications
 ---
-
-# Publications
-
 ## 2025
 
 - Corbella-Bagot, L., Ivars, M., Montenegro, L., Casas-Alba, D., Morón, J. A., **Olival**, J., & Torres, E. B. (2025). X-linked dominant chondrodysplasia punctata (CDPX2): A rare case of male mosaicism with atypical dermatological manifestations. Journal der Deutschen Dermatologischen Gesellschaft = Journal of the German Society of Dermatology : JDDG, 10.1111/ddg.15772. Advance online publication. https://doi.org/10.1111/ddg.15772.
