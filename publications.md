@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Publicaciones
+title: Publications
 ---
 
 # Publications
