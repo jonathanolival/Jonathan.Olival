@@ -16,3 +16,4 @@ Soy investigador en genética con interés en biología molecular, genómica y c
 - [CV](cv.md)
 - [Publicaciones](publicaciones.md)
 - [Contacto](contacto.md)
+<link rel="stylesheet" href="/assets/css/style.css">
