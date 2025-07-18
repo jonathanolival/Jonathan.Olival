@@ -1,10 +1,7 @@
 ---
 layout: default
-title: CV
+title: Curriculum Vitae
 ---
-
-# Curriculum Vitae
-
 ## Education
 
 - Phd in Human Genetics – Universitat de Barcelona (2022)
