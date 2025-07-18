@@ -12,4 +12,3 @@ Postdoctoral Researcher and Scientific Coordinator with an MSc in Molecular Biot
 - [CV](cv.md)
 - [Publications](publications.md)
 - [Contact](contact.md)
-<link rel="stylesheet" href="/assets/css/style.css">
